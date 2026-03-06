@@ -41,6 +41,12 @@ h3 {
     font-size: 7em;
 }
 
+.right-container {
+    display: flex;
+    background-color: #F9FAFB;
+    flex-direction: column;
+}
+
 @media (min-width: 768px) {
     body {
         display: flex;
